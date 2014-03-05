@@ -1,4 +1,6 @@
-calendarios
+Game Calendars
 ===========
 
-Proyect for all calendars
+Repo for calendar system. 
+
+The first version is for static calendars. 
